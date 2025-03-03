@@ -1,0 +1,16 @@
+<HTML>
+<head>
+<link rel="shortcut icon" href="pizza 2.ico" />
+
+
+<body>
+<body bgcolor="808080" background="imagenes/fondo9.JPG">
+
+
+
+
+
+
+
+
+</HTML>
